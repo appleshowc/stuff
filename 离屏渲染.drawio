@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T06:26:12.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="tk0PSMWN0yKounLv8Aza" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-12T06:32:40.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="9jiw02ud1nBBcnR5aqdf" version="20.2.8" type="github">
   <diagram id="hcyG7Oj6Pc0TLnwpaBza" name="第 1 页">
-    <mxGraphModel dx="1691" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1353" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="B3PZ270c4PYVpzMeeT5d-72" value="RTT" style="rounded=1;whiteSpace=wrap;html=1;glass=0;dashed=1;labelBackgroundColor=#FFFFFF;fillStyle=hatch;fontSize=14;fillColor=#f5f5f5;verticalAlign=bottom;fontStyle=1;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="370" y="210.25" width="180" height="79.75" as="geometry" />
         </mxCell>
-        <mxCell id="B3PZ270c4PYVpzMeeT5d-30" value="&lt;b&gt;渲染管线&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#dae8fc;dashed=1;strokeColor=#6c8ebf;fillStyle=hatch;" vertex="1" parent="1">
+        <mxCell id="B3PZ270c4PYVpzMeeT5d-30" value="&lt;b&gt;渲染管线&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#dae8fc;dashed=1;strokeColor=#6c8ebf;fillStyle=hatch;fontColor=#59769E;" vertex="1" parent="1">
           <mxGeometry x="40" y="59" width="600" height="100" as="geometry" />
         </mxCell>
         <mxCell id="B3PZ270c4PYVpzMeeT5d-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="B3PZ270c4PYVpzMeeT5d-1" target="B3PZ270c4PYVpzMeeT5d-2">
@@ -85,7 +85,7 @@
         <mxCell id="B3PZ270c4PYVpzMeeT5d-60" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="734" y="23" width="380" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="B3PZ270c4PYVpzMeeT5d-49" value="&lt;b&gt;当屏渲染&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#dae8fc;dashed=1;strokeColor=#6c8ebf;gradientColor=none;glass=0;fillStyle=cross-hatch;" vertex="1" parent="B3PZ270c4PYVpzMeeT5d-60">
+        <mxCell id="B3PZ270c4PYVpzMeeT5d-49" value="&lt;b&gt;当屏渲染&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#dae8fc;dashed=1;strokeColor=#6c8ebf;gradientColor=none;glass=0;fillStyle=cross-hatch;fontColor=#617FAB;" vertex="1" parent="B3PZ270c4PYVpzMeeT5d-60">
           <mxGeometry width="380" height="90" as="geometry" />
         </mxCell>
         <mxCell id="B3PZ270c4PYVpzMeeT5d-5" value="窗口系统帧缓冲区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="B3PZ270c4PYVpzMeeT5d-60">
@@ -117,16 +117,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B3PZ270c4PYVpzMeeT5d-63" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="734" y="130.25" width="396" height="80" as="geometry" />
+          <mxGeometry x="734" y="130.25" width="396" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="B3PZ270c4PYVpzMeeT5d-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=bottom;fillColor=#f8cecc;dashed=1;strokeColor=#b85450;glass=0;fillStyle=cross-hatch;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="B3PZ270c4PYVpzMeeT5d-63">
-          <mxGeometry width="380" height="80" as="geometry" />
+        <mxCell id="B3PZ270c4PYVpzMeeT5d-53" value="离屏渲染" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=bottom;fillColor=#f8cecc;dashed=1;strokeColor=#b85450;glass=0;fillStyle=cross-hatch;labelPosition=center;verticalLabelPosition=middle;align=center;fontStyle=1;fontColor=#BA5551;" vertex="1" parent="B3PZ270c4PYVpzMeeT5d-63">
+          <mxGeometry width="380" height="90" as="geometry" />
         </mxCell>
         <mxCell id="B3PZ270c4PYVpzMeeT5d-8" value="自定义帧缓冲区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="B3PZ270c4PYVpzMeeT5d-63">
           <mxGeometry x="26" y="10" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="B3PZ270c4PYVpzMeeT5d-54" value="离屏渲染" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;labelBackgroundColor=none;fillStyle=cross-hatch;fontSize=14;fontStyle=1" vertex="1" parent="B3PZ270c4PYVpzMeeT5d-63">
-          <mxGeometry x="306" y="53" width="60" height="27" as="geometry" />
         </mxCell>
         <mxCell id="B3PZ270c4PYVpzMeeT5d-51" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="B3PZ270c4PYVpzMeeT5d-63" source="B3PZ270c4PYVpzMeeT5d-8">
           <mxGeometry relative="1" as="geometry">
@@ -157,7 +154,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B3PZ270c4PYVpzMeeT5d-26" value="片元&lt;b style=&quot;&quot;&gt;深度&lt;/b&gt;数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;direction=south;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="817.5" y="211.25" width="25" height="117.5" as="geometry" />
+          <mxGeometry x="817.5" y="206.25" width="25" height="117.5" as="geometry" />
         </mxCell>
         <mxCell id="B3PZ270c4PYVpzMeeT5d-74" value="&lt;b&gt;RBO&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;labelBackgroundColor=#FFFFFF;fillStyle=cross-hatch;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="430" y="310" width="60" height="30" as="geometry" />
