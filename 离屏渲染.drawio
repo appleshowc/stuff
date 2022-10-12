@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T06:32:40.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="9jiw02ud1nBBcnR5aqdf" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-12T06:34:39.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="WTVbLVRcLQhqxao_UzKx" version="20.2.8" type="github">
   <diagram id="hcyG7Oj6Pc0TLnwpaBza" name="第 1 页">
     <mxGraphModel dx="1353" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="B3PZ270c4PYVpzMeeT5d-43" value="canvas 画布" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="B3PZ270c4PYVpzMeeT5d-60">
           <mxGeometry x="274" y="40" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B3PZ270c4PYVpzMeeT5d-46" value="图形显示系统扫描" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="B3PZ270c4PYVpzMeeT5d-60">
+        <mxCell id="B3PZ270c4PYVpzMeeT5d-46" value="图形显示系统扫描" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontSize=14;" vertex="1" parent="B3PZ270c4PYVpzMeeT5d-60">
           <mxGeometry x="185" y="45" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B3PZ270c4PYVpzMeeT5d-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startArrow=none;" edge="1" parent="B3PZ270c4PYVpzMeeT5d-60" source="B3PZ270c4PYVpzMeeT5d-46" target="B3PZ270c4PYVpzMeeT5d-43">
